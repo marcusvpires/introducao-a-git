@@ -17,3 +17,8 @@ adciona o arquivo a a arquivos estáqveis
 
 realiza um commit
 `` git commit -m "nome-do-commit" ``
+
+## voltando para uma versão anterior
+
+voltando para o ultimo commit
+`` git checkout -- . ``
