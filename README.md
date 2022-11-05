@@ -22,3 +22,13 @@ realiza um commit
 
 voltando para o ultimo commit
 `` git checkout -- . ``
+
+
+## vinculando com o github
+
+adcionando uma origem
+`` git remote add origin https//:link ``
+
+criando um commit no gitihub
+`` git push -u oring main ``
+
