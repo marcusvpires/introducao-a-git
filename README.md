@@ -30,5 +30,10 @@ adcionando uma origem
 `` git remote add origin https//:link ``
 
 criando um commit no gitihub
+`` git branch -M main ``
+
+criando um commit no gitihub
 `` git push -u oring main ``
 
+criando uma nova branch
+`` git checkout -b nome-da-branch ``
